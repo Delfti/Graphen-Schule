@@ -1,6 +1,6 @@
 # 📊 Graph-Algorithmen in Java
 
-Dieses Projekt implementiert grundlegende Graphdatenstrukturen sowie klassische Graphsuch- und kürzeste-Wege-Algorithmen in Java. Es richtet sich vor allem an Lernende im Bereich Informatik und demonstriert die praktische Umsetzung dieser Algorithmen anhand einfacher Klassenstrukturen.
+Dieses Projekt implementiert grundlegende Graphdatenstrukturen sowie klassische Graphsuch- und kürzeste-Wege-Algorithmen in Java.
 
 ## 📁 Inhalt
 
@@ -58,7 +58,3 @@ Vertex start = g.getVertex("A");
 Tiefensuche dfs = new Tiefensuche();
 List<Vertex> result = dfs.DFS(g, start);
 ```
-
-## 📚 Zielgruppe
-
-Dieses Projekt richtet sich insbesondere an Lernende in Schule oder Studium, die sich mit Graphen und Algorithmik im Informatikunterricht auseinandersetzen – vor allem in Szenarien, in denen der Einsatz von Standardbibliotheken eingeschränkt oder nicht erlaubt ist.
